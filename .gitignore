@@ -1,0 +1,29 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Archivos de entorno virtual
+env/
+venv/
+*.pyc
+__pycache__/
+
+# Archivos de datos confidenciales o pesados
+*.csv
+*.tsv
+*.xlsx
+*.sav
+*.pkl
+*.h5
+
+# Archivos de configuración personal
+*.env
+*.log
+
+# Carpeta de salidas o análisis temporales
+outputs/
+assets/
